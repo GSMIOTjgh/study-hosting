@@ -16,3 +16,7 @@ vercel은 jsp를 볼 수 있게 해주는 기능이라고 들었다.
 시험이 끝나고 아이디어페스티벌이 끝나는
 
 **12/22** 부터 js,React와 같이 jsp와 vercel을 배우기로 하였다.
+
+https://www.inflearn.com/course/%EA%B0%95%EC%9D%98%ED%8F%89%EA%B0%80-%EC%82%AC%EC%9D%B4%ED%8A%B8-jsp/dashboard
+
+https://vercel.com/pricing
