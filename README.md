@@ -69,13 +69,11 @@ cloudtype이라는 무료 백엔드 배포 서비스를 이용한다.
 
 백엔드 배포 => 프론트 배포 후에
 연동을 하는데 프론트를 cloudtype으로 배포하면 백엔드, 프론트 연동이 편하다는 의견도 들었다.
-https://make-somthing.tistory.com/91 - cloutype 프론트&백엔드 연동
+[cloutype 프론트&백엔드 연동](https://make-somthing.tistory.com/91)
 
-https://velog.io/@ckdgus5189/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0 - cloudtype 백엔드 배포
+[cloudtype 백엔드 배포](https://velog.io/@ckdgus5189/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 
-vercel 링크
-
-https://vercel.com/
+[vercel 링크](https://vercel.com/)
 
 
 
